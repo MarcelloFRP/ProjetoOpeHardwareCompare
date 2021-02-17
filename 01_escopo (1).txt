@@ -1,31 +1,36 @@
 Escopo
 
 
+No s√©culo XXI, dificilmente vemos processos ou neg√≥cios estabelecidos que n√£o fa√ßam o uso de ao menos uma das ferramentas 
+de tecnologia. De site de buscas √† controle de estoque, de controle de automa√ß√£o √† um dep√≥sito no banco, todas essas esferas
+operam, ou fazem parte de uma rede de constantes inova√ß√µes.
 
-» inegavel nos dias de hoje dizer que a tecnologia n„o esta envolvida em tudo e com tudo que fazemos, e somos.Ao analisarmos
-o cen·rio da tecnologia  atual nos demos de cara com dois setores que andam chamando muito a atenÁ„o, s„o eles o de games
-e desenvolvimento.O que antes se desenvolvia com pouco, rodava jogos com pouco processamento tanto de video quanto de cpu
-hoje atinge niveis brutais de necessidade de hardware.Ao darmos de cara com essa necessidade de peÁas cada vez mais pontentes,
-surgiu uma grande icognata em nossas mentes.E as pessoas que n„o possuem o conhecimento dessas tecnolgias? Elas atualmente 
-ficam rendidas a duas coisas, buscar o conhecimento em meio a diferentes busca pela internet a dentro ou ir atras de tecnicos
-especialistas.
+Com todo esse aparato tecnol√≥gico, precisamos de apenas uma ferramenta para poder surfar nessa onda de novas possibilidades,
+um computador. Aqui come√ßa um problema para os mais leigos no assunto. "Qual comprar ?" , "Por que tanta diferen√ßa de pre√ßo ?" ,
+"S√≥ quero navegar na internet", "Um de R$ 1000,00 d√° pra mim?".
 
-Nosso software surge em meio a esse cen·rio, a busca de informaÁ„o para qual peÁa usar? Ela serve para minha placa-m„e? Minha placa video ira aguentar tal funÁ„o?
-O software contar· com um bd de peÁas atualizadas que ser„o comparadas com os mais diversos fatores baseados em tecnologias como: socket;chipset;memoria ram para
-atender as necessidades do publico em geral com suas funÁıes especificas. Por exemplo uma pesssoa deseja montar uma m·quina com um processador i5 de um determinado modelo. E gostaria de saber
-com quais peÁas precisaria agrega-lo para rodar um game mid-end tendo em vista o custo beneficio. Nosso sistema ira buscar todas as informaÁıes do processador selecionado e ir· comparar com a placa-m„e de melhor custo beneficoo
-que suporte ele, juntamente com as outras peÁas, ex: memÛria ram, placa de video, fonte, possibilidade de um ssd, hd recomendado, tudo nos minimos detalhes buscando o melhor desempenho para a funÁ„o desejada e o preÁo esperado para gastar.
-Incialmente as pesquisas ser„o:
-Jogos mid-gen
-Jogos end-gen
-Desvolvimento de aplicaÁıes movÈis
-Desnvolvimento de aplciaÁıes IOT
-Servidores.
+√â bastante comum surgirem essas d√∫vidas em novos usu√°rios de computadores, claro que eles podem solicitar ajuda de um vendedor
+mas muitos clientes n√£o sentem a confian√ßa de seguir as recomenda√ß√µes da maiora dos vendedores por pensarem que eles podem estar
+superestimando a necessidade real do cliente para vender um produto que √© mais caro.
 
-E ter„o 3 tipos de custo:
-Quero mais desempenho
-Quero melhor custo beneficio
-Quero que pelo menos rode.
+Por essa raz√£o, se faz necess√°rio atender a necessidade de uma informa√ß√£o bem fundamentada, livre de qualquer bias e sem vincula√ß√£o
+financeira direta a qualquer loja.
+
+A proposta desse projeto √© solucionar a dificuldade do cliente em escolher um computador ou pe√ßas de computadores para montar um
+computador funcional e eficiente para realizar as atividades determinadas pelo pr√≥prio cliente. 
+As atividades podem ser determinadas como:
+ 1 - Navega√ß√£o na internet, planilhas eletr√¥nicas, apresenta√ß√µes de slides, cria√ß√£o de textos
+ 2 - Estudo, Assistir aulas, cursos online, servi√ßos de streaming de v√≠deos/filmes
+ 3 - Desenvolvimento de software, programa√ß√£o, softwares de desenvolvimento
+ 4 - Arte 2d/3d, Maquete 3d, Desenvolvimento de Games
+ 5 - Jogar jogos do tipo AAA - nextGen (topo de linha)
+ 
+
+Tamb√©m possuir op√ß√µes de categorias como: 
+ 1 - Configura√ß√µes m√≠nimas
+ 2 - Melhor Custo benef√≠cio
+ 3 - Melhor desempenho
+ 4 - Notebook ou Desktop  
 
 
  
