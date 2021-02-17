@@ -1,8 +1,0 @@
-Glossário
-
-
-Hardware: Peça de computador; ex: Processador, placa de video.
-
-Software: Sistema interpretado pelos computadores
-
-
