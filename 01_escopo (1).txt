@@ -1,0 +1,32 @@
+Escopo
+
+
+
+È inegavel nos dias de hoje dizer que a tecnologia não esta envolvida em tudo e com tudo que fazemos, e somos.Ao analisarmos
+o cenário da tecnologia  atual nos demos de cara com dois setores que andam chamando muito a atenção, são eles o de games
+e desenvolvimento.O que antes se desenvolvia com pouco, rodava jogos com pouco processamento tanto de video quanto de cpu
+hoje atinge niveis brutais de necessidade de hardware.Ao darmos de cara com essa necessidade de peças cada vez mais pontentes,
+surgiu uma grande icognata em nossas mentes.E as pessoas que não possuem o conhecimento dessas tecnolgias? Elas atualmente 
+ficam rendidas a duas coisas, buscar o conhecimento em meio a diferentes busca pela internet a dentro ou ir atras de tecnicos
+especialistas.
+
+Nosso software surge em meio a esse cenário, a busca de informação para qual peça usar? Ela serve para minha placa-mãe? Minha placa video ira aguentar tal função?
+O software contará com um bd de peças atualizadas que serão comparadas com os mais diversos fatores baseados em tecnologias como: socket;chipset;memoria ram para
+atender as necessidades do publico em geral com suas funções especificas. Por exemplo uma pesssoa deseja montar uma máquina com um processador i5 de um determinado modelo. E gostaria de saber
+com quais peças precisaria agrega-lo para rodar um game mid-end tendo em vista o custo beneficio. Nosso sistema ira buscar todas as informações do processador selecionado e irá comparar com a placa-mãe de melhor custo beneficoo
+que suporte ele, juntamente com as outras peças, ex: memória ram, placa de video, fonte, possibilidade de um ssd, hd recomendado, tudo nos minimos detalhes buscando o melhor desempenho para a função desejada e o preço esperado para gastar.
+Incialmente as pesquisas serão:
+Jogos mid-gen
+Jogos end-gen
+Desvolvimento de aplicações movéis
+Desnvolvimento de aplciações IOT
+Servidores.
+
+E terão 3 tipos de custo:
+Quero mais desempenho
+Quero melhor custo beneficio
+Quero que pelo menos rode.
+
+
+ 
+  
